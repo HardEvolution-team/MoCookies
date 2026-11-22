@@ -1,0 +1,1 @@
+{"textures":{"t":"mocookies:blocks/cookieblock","particle":"mocookies:blocks/cookieblock"},"elements":[{"from":[0,0,6],"to":[16,16,10],"faces":{"north":{"texture":"#t"},"south":{"texture":"#t"},"east":{"texture":"#t"},"west":{"texture":"#t"},"up":{"texture":"#t"},"down":{"texture":"#t"}}}]}
